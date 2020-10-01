@@ -1,5 +1,5 @@
 #####################################################################
-#                                                                   #
+#  monashkrb-installer--forked-from--labscript_suite-installer                                                      #
 # /setup.py                                                         #
 #                                                                   #
 # Copyright 2014, Monash University                                 #
